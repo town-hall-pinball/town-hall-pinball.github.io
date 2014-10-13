@@ -50,7 +50,9 @@ layout: default
 
 <main class="content" role="main">
 
+    {% if site.tags.featured.size > 0 %}
     <h5 class="index-headline featured"><span>Featured</span></h5>
+    {% endif %}
 
     <div class="container featured">
       {% for post in site.tags.featured %}
