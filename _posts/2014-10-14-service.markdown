@@ -8,4 +8,4 @@ tags:
 
 A demo of the service mode development is now available here:
 
-https://www.youtube.com/watch?v=X9R7pjJPesA
+<iframe width="560" height="315" src="//www.youtube.com/embed/X9R7pjJPesA" frameborder="0" allowfullscreen></iframe>
