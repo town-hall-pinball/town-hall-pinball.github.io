@@ -4,14 +4,15 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Town Hall Pinball is working on a customized pinball machine. The overall plan is to:
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+* Use an existing pinball machine, likely "No Fear"
+* Completely rebrand it with a new play-field, backglass, and cabinet artwork
+* Design a new theme
+* Design a new ruleset
+* Design and/or use new animations, sound effects, and music
+* Design new software
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Since the theme and the name of the game has not yet been decided, we are using the working title of "no-fear" for now.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+We are very early in the process and it will probably be some time until real progress is made. In the mean time, feel free to follow along and see development in action.

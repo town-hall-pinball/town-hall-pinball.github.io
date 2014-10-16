@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Alpha Service Mode Demo"
+date:   2014-10-14 23:37:00
+categories: news
+tags:
+---
+
+A demo of the service mode development is now available here:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/X9R7pjJPesA" frameborder="0" allowfullscreen></iframe>

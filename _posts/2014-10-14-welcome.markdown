@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome"
+date:   2014-10-14 17:55:09
+categories: news
+tags:
+---
+
+This is currently a work in progress. Visit the _About_ page for now to see the overall plan. We will be updating this site on a regular basis to share our experiences with building a customized pinball machine. Stay tuned!
