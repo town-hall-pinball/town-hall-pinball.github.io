@@ -6,7 +6,7 @@ categories: news
 tags:
 ---
 
-While putting together the basic attract mode, I noticed that the transition that scrolls the "NO FEAR" title from the bottom of the frame didn't always work. Sometimes it would scroll correctly, other times it would simply pop up in the center. When we testing on the Twilight Zone machine, I never saw that on the real dot-matrix display so I assumed it was just an issue with rendering in the development display.
+While putting together the basic attract mode, I noticed that the transition that scrolls the "NO FEAR" title from the bottom of the frame didn't always work. Sometimes it would scroll correctly, other times it would simply pop up in the center. When we were testing on the Twilight Zone machine, I never saw that on the real dot-matrix display so I assumed it was just an issue with rendering in the development display.
 
 This became problematic when trying to implement an animated gradient test as seen here:
 
