@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Raspberry Pi Testing"
+date:   2014-10-25 18:44:00
+categories: news
+tags:
+---
+
+David Gent brought in a Raspberry Pi and we tested it out on real hardware. Here is the result:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/ZE94SiEynKc" frameborder="0" allowfullscreen></iframe>
