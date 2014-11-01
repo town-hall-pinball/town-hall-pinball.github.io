@@ -9,4 +9,4 @@ tags:
 Here is a first look at work being done for switch testing.
 
 <iframe width="560" height="315"
-src="//youtu.be/Gs4bUuupf9E" frameborder="0" allowfullscreen></iframe>
+src="//youtube.com/embed/Gs4bUuupf9E" frameborder="0" allowfullscreen></iframe>
