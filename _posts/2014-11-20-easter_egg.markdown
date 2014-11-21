@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Animation and Transition Testing with an Easter Egg"
-date:   2014-11-07 18:26:00
+date:   2014-11-20 20:44:00
 categories: news
 tags:
 ---
