@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Basic Gameplay, Kickback, Lamp Issues, and Magnet Timings"
-date:   2014-11-20 20:44:00
+date:   2015-01-06 23:56:00
 categories: news
 tags:
 ---
