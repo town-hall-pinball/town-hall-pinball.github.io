@@ -11,7 +11,7 @@ to get working.  Mike and Ken showed up to compare software testing with the rea
 deal.
 
 Hooked up the P-ROC, and it only took us two times to get things up and running.
-Sound was fully working (though through the laptop).
+Sound was fully working (through the laptop).
 
 ![Jon doing some testing]({{ site.url }}/assets/article_images/2015-01-06-basic_gameplay/jonTesting.jpg)
 
@@ -19,31 +19,31 @@ Our first goal was to plunge a ball.  This worked as expected, but we ran int ou
 first gameplay problem, as no fear launches the ball into a subway.  This was
 corrected and we moved onto the kickback.
 
-This didn't turn out to be a problem at all, as the table is designed such that
+This didn't turn out to be a problem at all since the table is designed such that
 if the solenoid is fired when the switch is triggered, the ball will properly be
 plunged back onto the playfield.
 
 The kickback was trivial.  The magnets were not.  We played around with various
-solenid "pulse" timings, but none of them worked.  It was random on weather the
+solenoid "pulse" timings, but none of them worked.  It was random weather the
 ball would fly all the way around or be grabbed by the magnet and flung back down
 the ramp.
 
 We did find a good timing for ball rejection.  A solenoid pulse of 70ms on any
 of the magnets throws the ball back down the ramp.  This will be incorporated
-into the rules.
+into the rules in the future.
 
 While watching Pinball Done Quick, part of Awesome Games Done Quick 2015, I was
 able to do some magnet testing.
 
 ![Logic setup]({{ site.url }}/assets/article_images/2015-01-06-basic_gameplay/logicFar.jpg)
 
-Probes were attached to the optos and the U5 decoder which activates the magnets.
+Probes were attached to the optos and to the U5 decoder chip which activates the magnets.
 
 ![Logic closeup]({{ site.url }}/assets/article_images/2015-01-06-basic_gameplay/logicClose.jpg)
 
-As shown below, so long as the switch is on, the magnet is on, so the ball
+As shown below, so long as the switch is on, the magnet is on.  The ball
 passing the switch activates the magnet (as along as the ball is in front of the
-switch).  The first picture is a normal up-the-ramp shot, while the send picture
+switch).  The first picture is a normal up-the-ramp shot, while the second picture
 is the ball falling back down the ramp.
 
 ![normal magnet activity up the ramp]({{ site.url }}/assets/article_images/2015-01-06-basic_gameplay/magnetall.png)
@@ -77,9 +77,10 @@ This can be implemented by calling a standard soleniod pulse for 80ms.
 
 We tried some lamp tests, but the lamps appeared dim.  The more lamps we light
 at once, the dimmer they are.  We found no immediate reason for this, and we will
-need to do more real-world testing, as the lamp test works on the normal game.
+need to do more real-world testing and compare how our lamps work to the normal game
+since the lamps function correctly there.
 
 We have plenty to work on.  Ken is implementing what is, right now, the talking
 skull, while the rest of us need to put together a basic ruleset.  Likely some
-speedrun type stuff in honor of Pins Done Quick.  We are hoping for some gameplay
+speedrun type stuff in honor of Pinball Done Quick.  We are hoping for some more gameplay
 music, and are looking to get at least one basic animation in the near future.
