@@ -9,7 +9,7 @@ tags:
 It has been some time since the last blog update, so here is a video of the
 latest in action:
 
-<iframe width="560" height="315" src="https://youtu.be/sXrMR3jrUIM" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/sXrMR3jrUIM" frameborder="0" allowfullscreen></iframe>
 
 While it may not appear that much has changed, the code has been reworked
 from the ground up in preparation for the actual game implementation.
